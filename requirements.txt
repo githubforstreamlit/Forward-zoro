@@ -1,0 +1,5 @@
+git+https://github.com/yuvraj371/pyropatch
+motor
+TgCrypto
+Dnspython
+
